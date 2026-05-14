@@ -6,7 +6,7 @@
     "name": "Hanime",
     "description": "Metadata scraper for hanime.tv",
     "overview": "Fetches metadata and images from hanime.tv API",
-    "owner": "fg",
+    "owner": "ploufiii04",
     "versions": [
       {
         "version": "2.0.0.0",
